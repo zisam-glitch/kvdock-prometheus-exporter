@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-prometheus-exporter",
+  "version": "1.0.0",
+  "description": "Prometheus metrics scraping daemon for kvdock cache clusters",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.0"
+  },
+  "license": "MIT"
+}
